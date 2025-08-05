@@ -1,4 +1,4 @@
-/* Cool Workspace Buttons */
+/* Better Workspace Switcher */
 zen-workspace > arrowscrollbox[overflowing]::after {
     /* Remove bottom hr */
     display: none;
